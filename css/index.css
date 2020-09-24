@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+
+body {
+    background-color: black;
+}
+.topico {
+    color: white;
+}
+p.resposta {
+    font-size: 20px;
+    color: white;
+}
+div.box {
+    background-color: blue;
+    width: 300px;
+    border: 25px solid yellow;
+    padding: 50px;
+    margin: 20px;
+    outline: green solid 15px;
+    text-align: center;
+    font-size: 20px;
+    color:white;
+}
+ul.legenda {
+    color: white;
+    font-size: 20px;
+}
+ul.outline {
+    color:white;
+    font-size: 20px;
+}
+p.exemplo1 {
+    color: white;
+    outline-style: dotted;
+    font-size: 20px;
+}
+p.exemplo-dois {
+    color: white;
+    outline-style: dotted;
+    outline-color: red;
+    font-size: 20px;
+}
+p.exemplo-tres {
+    color: white;
+    outline-style: dotted;
+    outline-color: red;
+    outline-width: 5px;
+    font-size: 20px;
+}
+p.exemplo-quatro {
+    color: white;
+    outline-style: dotted;
+    outline-color: red;
+    outline-width: 5px;
+    outline-offset: 15px;
+    font-size: 20px;
+}
